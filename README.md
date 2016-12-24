@@ -1,5 +1,5 @@
 # Google-Drive-Video.js
-Google Drive Video.js Player Scripta
+Google Drive Video.js Player Script
 
 The script using [api.getlinkdrive.com](http://api.getlinkdrive.com) to grab google drive streaming links
 
@@ -56,3 +56,5 @@ The script using [api.getlinkdrive.com](http://api.getlinkdrive.com) to grab goo
 	    })
 	});
 	</script>
+
+More info: [GetLinkDrive](http://getlinkdrive.com/)
