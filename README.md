@@ -57,4 +57,10 @@ The script using [api.getlinkdrive.com](http://api.getlinkdrive.com) to grab goo
 	});
 	</script>
 
+If you want to get the script GetLinkDrive API, let contact:
+
+> Email: info@getlinkdrive.com
+
+> Skype: info@getlinkdrive.com
+
 More info: [GetLinkDrive](http://getlinkdrive.com/)
